@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm @robertohdz98, an AI/ML Engineer 😀.
+
+- 🔭 I’m currently working on **Machine Learning Engineering** and **MLOps**
+- 🌱 I’m currently deepening my knowledge in **Google Cloud Platform (GCP)**
+- 📚 I'm currently studying **Certified Kubernetes Administrator (CKA)**
+- 👯 I’m looking to collaborate on other cloud providers such as AWS or Azure
+- 🤔 I’m looking for help with GenAI
+- 📤 How to reach me: betohr60@gmail.com
+
 <!--
 **robertohdz98/robertohdz98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
