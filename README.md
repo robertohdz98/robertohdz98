@@ -9,6 +9,8 @@ I'm @robertohdz98, an AI/ML Engineer 😀.
 - 🤔 I’m looking for help with GenAI
 - 📤 How to reach me: betohr60@gmail.com
 
+:link: Link to my Medium profile: [@robertohdz98](https://medium.com/@robertohdz98)
+
 <!--
 **robertohdz98/robertohdz98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
