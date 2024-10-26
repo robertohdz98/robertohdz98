@@ -3,10 +3,10 @@
 I'm @robertohdz98, an AI/ML Engineer 😀.
 
 - 🔭 I’m currently working on **Machine Learning Engineering** and **MLOps**
-- 🌱 I’m currently deepening my knowledge in **Google Cloud Platform (GCP)**
-- 📚 I'm currently studying **Certified Kubernetes Administrator (CKA)**
-- 👯 I’m looking to collaborate on other cloud providers such as AWS or Azure
-- 🤔 I’m looking for help with GenAI
+- 🌱 I’m currently deepening my knowledge in **GCP and AWS**
+- 📚 I've recently obtained **Certified Kubernetes Administrator (CKA)**
+- 👯 I’m looking to collaborate on other data projects
+- 🤔 I’m looking for help with Azure
 - 📤 How to reach me: betohr60@gmail.com
 
 :link: Link to my Medium profile: [@robertohdz98](https://medium.com/@robertohdz98)
