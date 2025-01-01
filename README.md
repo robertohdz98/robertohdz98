@@ -6,7 +6,6 @@ I'm @robertohdz98, an AI/ML Engineer 😀.
 - 🌱 I’m currently deepening my knowledge in **GCP and AWS**
 - 📚 I've recently obtained **Certified Kubernetes Administrator (CKA)**
 - 👯 I’m looking to collaborate on other data projects
-- 🤔 I’m looking for help with Azure
 - 📤 How to reach me: betohr60@gmail.com
 
 :link: Link to my Medium profile: [@robertohdz98](https://medium.com/@robertohdz98)
